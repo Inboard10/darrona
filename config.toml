@@ -1,5 +1,5 @@
 title = "Darrona blog"
-baseURL = "https://example.com"
+baseURL = "https://master.xxxxxxxxx.amplifyapp.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
